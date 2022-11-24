@@ -45,7 +45,7 @@ public class Parser {
         int iterationCount = 4;
         if (index == 0) {
             Element valueLn = values.get(0);
-            /**  boolean isMorning = valueLn.text().contains("Утро");
+            /**  boolean isMorning = valueLn.text().contains("Утро");//можно сделать такой флаг
              if (isMorning){
              iterationCount = 3;
              }*/
