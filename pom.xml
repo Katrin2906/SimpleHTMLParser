@@ -6,10 +6,13 @@
 
     <groupId>artmcoder</groupId>
     <artifactId>youtube-parser-html-lesson</artifactId>
+    <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>otherParser</module>
+    </modules>
 
-    <name>youtube-parser-html-lesson</name>
-    <!-- FIXME change it to the project's website -->
+    <name>simpleParser</name>
     <url>http://www.example.com</url>
 
     <properties>
